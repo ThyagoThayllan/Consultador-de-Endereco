@@ -8,9 +8,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Projeto feito para testar minhas habilidades no <b style='color: cyan'>React</b>, utilizando dados de uma <b style='color: orange'>API</b> e usando <b style='color: purple'>Axios</b> para fazer requisições.<br>
+Projeto feito para testar minhas habilidades no React, utilizando dados de uma API e usando Axios para fazer requisições.
 
-Alimentei este projeto com uma <b style='color: orange'>API de endereços</b> [(ViaCEP)](https://viacep.com.br/) para, então, buscar o endereço, após o preenchimento do <b style='color: green'>CEP</b>, e mostrá-lo a baixo do formulário.
+Alimentei este projeto com uma API de endereços para, então, buscar o endereço, após o preenchimento do CEP, e mostrá-lo a baixo do formulário.
 
 <img src='./github/ConsultadorDeEndereco.png'>
 
